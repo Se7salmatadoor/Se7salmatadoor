@@ -1,0 +1,30 @@
+name: Auto Update README from CV
+
+on:
+  push:
+    paths:
+      - 'cv.pdf'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run CV Parser Script
+      run: python parse_cv.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add README.md
+        git commit -m "Automated Profile Update from CV Upload" || exit 0
+        git push
+
