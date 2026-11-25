@@ -21,6 +21,8 @@
 
 * **[Transmittal & Document Register Tracker (Excel)](https://github.com/Se7salmatadoor/transmittal-tracker-excel)**: tracks transmittals, days waiting for a reply and overdue items, with a dashboard of six key numbers and four charts. Includes a step-by-step walkthrough in English and Arabic. Dummy data.
 
+* **[Document Register in SQL (SQLite)](https://github.com/Se7salmatadoor/document-register-sql)**: seven queries on a transmittal register covering status counts, overdue items, ageing, reply times and future-date checks. Includes English and Arabic walkthroughs. Dummy data.
+
 ---
 
 ## 💼 Professional Experience
