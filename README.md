@@ -25,6 +25,8 @@
 
 * **[File Naming Checker (Python)](https://github.com/Se7salmatadoor/file-naming-checker)**: Checks document file names against a sample naming convention. Includes tests and walkthroughs in Arabic and English.
 
+* **[Document Control Logs (Excel)](https://github.com/Se7salmatadoor/document-control-logs)**: A workbook with six logs for IR, Technical Submittal, TRF, MIR, MS and Shop Drawings, plus a tracking dashboard. Includes dummy examples and instructions in Arabic and English.
+
 ---
 
 ## 💼 Professional Experience
