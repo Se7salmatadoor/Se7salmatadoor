@@ -23,6 +23,8 @@
 
 * **[Document Register in SQL (SQLite)](https://github.com/Se7salmatadoor/document-register-sql)**: seven queries on a transmittal register covering status counts, overdue items, ageing, reply times and future-date checks. Includes English and Arabic walkthroughs. Dummy data.
 
+* **[File Naming Checker (Python)](https://github.com/Se7salmatadoor/file-naming-checker)**: Checks document file names against a sample naming convention. Includes tests and walkthroughs in Arabic and English.
+
 ---
 
 ## 💼 Professional Experience
