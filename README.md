@@ -7,13 +7,19 @@
 
 ---
 
-## 🛠️ Automatically Extracted Technical Skills
+## 🛠️ Technical Skills
 
 * **Data Analysis & Reporting**: KPI Tracking, Performance Monitoring, Data Cleaning & Validation
 * **Power BI Dashboard Development**: Interactive Dashboards, DAX, Power Query
 * **Advanced Excel**: VLOOKUP, Pivot Tables, Data Modeling, Automation
 * **SQL**: Basic Queries, Data Extraction, Query Optimization
 * **Domain Tools**: Aconex, SharePoint, Engineering Logs, EDMS, QA/QC Documentation
+
+---
+
+## 📁 Projects
+
+* **[Transmittal & Document Register Tracker (Excel)](https://github.com/Se7salmatadoor/transmittal-tracker-excel)**: tracks transmittals, days waiting for a reply and overdue items, with a dashboard of six key numbers and four charts. Includes a step-by-step walkthrough in English and Arabic. Dummy data.
 
 ---
 
